@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "#DEFINE "
+tagline:          'About Life, and Hack'
+description:      'A personal blog that talks about my life, shares wonderful ideas, and more.'
+url:              
+
+author:
+  name:           'Emma W.'
+  url:            https://twitter.com/Emmaxywang
+
+paginate:         3
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/em-meow.github.io
